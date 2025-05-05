@@ -170,11 +170,11 @@ Cada tabela é estruturada com integridade referencial e constraints de unicidad
 
 ## Vídeo de Apresentação/Pitch
 
-[YouTube](https://www.youtube.com/watch?v=kd1TGHjLLk4)
+[YouTube]https://youtu.be/sxw1htjewKk?si=vj6zXOCfo35MLuUb)
 
 ## Link do Github
 
-[Repositório](https://github.com/HerbertSsousa/OdontoPrevSprint3)
+[Repositório]https://github.com/HerbertSsousa/OdontoPrevSprint4-final-ok
 
 <h2>Diagramas</h2>
 <h3>Diagrama de Classes</h3>
